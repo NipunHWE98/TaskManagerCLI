@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|c:\\users\\nipun.wijayarathna\\source\\repos\\taskmanagercli\\taskmanagercli\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|solutionrelative:taskmanagercli\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|c:\\users\\nipun.wijayarathna\\source\\repos\\taskmanagercli\\taskmanagercli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|solutionrelative:taskmanagercli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|c:\\users\\nipun.wijayarathna\\source\\repos\\taskmanagercli\\taskmanagercli\\models\\taskcatogory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|solutionrelative:taskmanagercli\\models\\taskcatogory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|c:\\users\\nipun.wijayarathna\\source\\repos\\taskmanagercli\\taskmanagercli\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|solutionrelative:taskmanagercli\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|c:\\users\\nipun.wijayarathna\\source\\repos\\taskmanagercli\\taskmanagercli\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|solutionrelative:taskmanagercli\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|c:\\users\\nipun.wijayarathna\\source\\repos\\taskmanagercli\\taskmanagercli\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1804E7-6DA2-4FCA-BD23-D1B29340EABF}|TaskManagerCLI\\TaskManagerCLI.csproj|solutionrelative:taskmanagercli\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "TaskManagerCLI\\Models\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\TaskPriority.cs",
+              "RelativeToolTip": "TaskManagerCLI\\Models\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:06:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskCatogory.cs",
+              "DocumentMoniker": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\TaskCatogory.cs",
+              "RelativeDocumentMoniker": "TaskManagerCLI\\Models\\TaskCatogory.cs",
+              "ToolTip": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\TaskCatogory.cs",
+              "RelativeToolTip": "TaskManagerCLI\\Models\\TaskCatogory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:06:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagerCLI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\User.cs*",
+              "RelativeToolTip": "TaskManagerCLI\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:03:19.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagerCLI\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagerCLI\\Services\\TaskService.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAASwOIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:49:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "TaskManagerCLI\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Models\\Tasks.cs",
+              "RelativeToolTip": "TaskManagerCLI\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:47:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagerCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nipun.Wijayarathna\\source\\repos\\TaskManagerCLI\\TaskManagerCLI\\Program.cs",
+              "RelativeToolTip": "TaskManagerCLI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:26:19.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
